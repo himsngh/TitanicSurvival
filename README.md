@@ -1,2 +1,2 @@
 # TitanicSurvival
-Titanic machine learning survival rate
+Titanic  survival rate
